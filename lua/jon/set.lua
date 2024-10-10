@@ -1,4 +1,4 @@
-vim.cmd.colorscheme('bamboo')
+vim.cmd.colorscheme("bamboo")
 
 vim.opt.nu = true
 vim.opt.relativenumber = true
