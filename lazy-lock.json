@@ -24,5 +24,6 @@
   "trouble.nvim": { "branch": "main", "commit": "254145ffd528b98eb20be894338e2d5c93fa02c2" },
   "vim-fugitive": { "branch": "master", "commit": "d4877e54cef67f5af4f950935b1ade19ed6b7370" },
   "vim-hybrid": { "branch": "master", "commit": "cc58baabeabc7b83768e25b852bf89c34756bf90" },
-  "yaml-companion.nvim": { "branch": "main", "commit": "131b0d67bd2e0f1a02e0daf2f3460482221ce3c0" }
+  "yaml-companion.nvim": { "branch": "main", "commit": "131b0d67bd2e0f1a02e0daf2f3460482221ce3c0" },
+  "zen-mode.nvim": { "branch": "main", "commit": "29b292bdc58b76a6c8f294c961a8bf92c5a6ebd6" }
 }
